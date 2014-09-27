@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "aster": "^0.1.0",
-    "aster-parse-esnext": "^0.0.1"
+    "aster": "^0.1.2",
+    "aster-parse-esnext": "^0.1.1"
   },
   "devDependencies": {
-    "aster": "^0.1.0",
-    "aster-parse-esnext": "0.0.1"
+    "aster": "^0.1.2",
+    "aster-parse-esnext": "^0.1.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
